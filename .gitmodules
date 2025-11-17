@@ -1,0 +1,3 @@
+[submodule "gopacker"]
+	path = gopacker
+	url = https://github.com/girip131175/gopack
