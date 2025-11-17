@@ -1,0 +1,6 @@
+malwareSamples/
+perturbedMalwareSamples/
+venv/
+__pycache__/
+.vscode
+.env
